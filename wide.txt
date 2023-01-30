@@ -1,0 +1,6 @@
+<html>
+<head>network request</head>
+<p>Need to reappy style infomation for the other document sulking up the documents and making it more difficult to apply up dates.</p>
+<p>require Extra down load round-trip for the style sheet,which might delay page rendering particulaly when mutiple file are in use .</p>
+<p>Insome cases when@import is used the brower may cause a rendering"frash" under slow loding conditions</p>
+<html>
